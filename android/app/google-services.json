@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "350979288640",
+    "firebase_url": "https://fireshopsbase.firebaseio.com",
+    "project_id": "fireshopsbase",
+    "storage_bucket": "fireshopsbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350979288640:android:59fdc8759fbb59567239a5",
+        "android_client_info": {
+          "package_name": "com.engoo.final_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350979288640-kmh1ek81v813r234213ema2iqkjlg0fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engoo.final_ecommerce",
+            "certificate_hash": "f48787b3204e22a3f08e5bdb2d0fc9c33f58478e"
+          }
+        },
+        {
+          "client_id": "350979288640-r7rdtc976jhmapnqhveq29u37redrnvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09Cz0-4aUByAnDb3SGP-TIXxFt2xhHg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350979288640-r7rdtc976jhmapnqhveq29u37redrnvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350979288640-59mgchvmmoa4kelffgqp6hkn15ga3iti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.engoo.ecommercegetx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350979288640:android:1d4d2aad70f2fa7a7239a5",
+        "android_client_info": {
+          "package_name": "com.engoo.final_ecommerce_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350979288640-gneetmtkeqo34dbjmiq21gv89fsqk41u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engoo.final_ecommerce_admin",
+            "certificate_hash": "f48787b3204e22a3f08e5bdb2d0fc9c33f58478e"
+          }
+        },
+        {
+          "client_id": "350979288640-r7rdtc976jhmapnqhveq29u37redrnvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09Cz0-4aUByAnDb3SGP-TIXxFt2xhHg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350979288640-r7rdtc976jhmapnqhveq29u37redrnvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350979288640-59mgchvmmoa4kelffgqp6hkn15ga3iti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.engoo.ecommercegetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
